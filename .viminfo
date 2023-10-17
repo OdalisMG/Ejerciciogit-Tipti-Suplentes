@@ -12,9 +12,9 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1656360903,,"wq"
+|2,0,1697495339,,"wq"
 :w
-|2,0,1656360853,,"w"
+|2,0,1697495259,,"w"
 :W
 |2,0,1656360816,,"W"
 
@@ -29,10 +29,40 @@
 # Registers:
 
 # File marks:
-'0  2  0  ~/Terminal/index.js
-|4,48,2,0,1656360903,"~/Terminal/index.js"
+'0  1  51  ~/Terminal/index.js
+|4,48,1,51,1697495339,"~/Terminal/index.js"
+'1  1  51  ~/Terminal/index.js
+|4,49,1,51,1697495266,"~/Terminal/index.js"
+'2  1  0  ~/Terminal/index.js
+|4,50,1,0,1697495076,"~/Terminal/index.js"
+'3  1  0  ~/Terminal/index.js
+|4,51,1,0,1697495076,"~/Terminal/index.js"
+'4  2  0  ~/Terminal/index.js
+|4,52,2,0,1656360903,"~/Terminal/index.js"
+'5  2  0  ~/Terminal/index.js
+|4,53,2,0,1656360903,"~/Terminal/index.js"
+'6  2  0  ~/Terminal/index.js
+|4,54,2,0,1656360903,"~/Terminal/index.js"
+'7  2  0  ~/Terminal/index.js
+|4,55,2,0,1656360903,"~/Terminal/index.js"
+'8  2  0  ~/Terminal/index.js
+|4,56,2,0,1656360903,"~/Terminal/index.js"
+'9  2  0  ~/Terminal/index.js
+|4,57,2,0,1656360903,"~/Terminal/index.js"
 
 # Jumplist (newest first):
+-'  1  51  ~/Terminal/index.js
+|4,39,1,51,1697495339,"~/Terminal/index.js"
+-'  1  51  ~/Terminal/index.js
+|4,39,1,51,1697495266,"~/Terminal/index.js"
+-'  1  0  ~/Terminal/index.js
+|4,39,1,0,1697495076,"~/Terminal/index.js"
+-'  2  0  ~/Terminal/index.js
+|4,39,2,0,1656360903,"~/Terminal/index.js"
+-'  2  0  ~/Terminal/index.js
+|4,39,2,0,1656360903,"~/Terminal/index.js"
+-'  2  0  ~/Terminal/index.js
+|4,39,2,0,1656360903,"~/Terminal/index.js"
 -'  2  0  ~/Terminal/index.js
 |4,39,2,0,1656360903,"~/Terminal/index.js"
 -'  1  0  ~/Terminal/index.js
@@ -41,11 +71,12 @@
 # History of marks within files (newest to oldest):
 
 > ~/Terminal/index.js
-	*	1656360898	0
-	"	2	0
-	^	2	2
-	.	2	2
+	*	1697495324	0
+	"	1	51
+	^	1	52
+	.	1	51
 	+	2	60
 	+	3	0
 	+	1	0
 	+	2	2
+	+	1	51
