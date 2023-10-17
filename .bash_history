@@ -7,13 +7,13 @@ ls -l
 chmod 744 IMG
 ls
 ls -l
-chmod 771 SRC
+chmod 770 SRC
 ls -l
 clear
-cd miprimeracarpeta
+cd Terminal
 ls
 ls
 ls
 sudosu
 ls
-ls
+
